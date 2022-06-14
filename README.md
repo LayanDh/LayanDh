@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LayanDh
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Dart, Fullter and Swift
+- 🌱 I’m currently learning Dart, Flutter and Swift
 - 📫 How to reach me; Email: Layan.developer@gmail.com
 
 <!---
